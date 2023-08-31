@@ -1,6 +1,8 @@
 # ROS-Robot_controller
 
-Cloning the repo
+To Run The project follow the following steps:
+
+Cloning the repository 
 
       mkdir -p catkin_ws/src
       cd catkin_ws/src
@@ -32,3 +34,6 @@ To run the project
        cd ~/catkin_ws
        source devel/setup.bash
        rosrun tutorial my_publisher
+
+
+The is followed code from https://www.youtube.com/watch?v=7rLXC4xvSGw and https://github.com/utra-robosoccer/Tutorials-2020
